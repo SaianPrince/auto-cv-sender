@@ -1,0 +1,13 @@
+# Environments
+.env
+
+# Logs and tracking files
+sent_log.txt
+already_sent_emails.txt
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
